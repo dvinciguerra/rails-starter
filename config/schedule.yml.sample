@@ -1,0 +1,5 @@
+# alias_for_job_schedule:
+#   cron:  0 1 * * *
+#   class: ExampleJob
+#   queue: default
+#   active_job: true
