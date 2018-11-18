@@ -1,5 +1,13 @@
 {
-  "name": "rails-starter",
+  "name": "RailsStarter",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "normalize.css": "^8.0.0"
+  },
+  "devDependencies": {
+    "babel-preset-airbnb": "^3.0.1",
+    "prettier": "1.14.3",
+    "webpack-dev-server": "2.11.2"
+  }
 }

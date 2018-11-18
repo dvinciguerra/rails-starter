@@ -1,0 +1,8 @@
+.page {
+  color: #865757;
+  font-size: 62pt;
+  font-weight: 300;
+  margin: calc(25% - 62pt) 0px;
+  padding: 0px;
+  text-shadow: 2px 2px 5px #0005
+}
