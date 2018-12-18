@@ -3,7 +3,8 @@
   "private": true,
   "dependencies": {
     "@rails/webpacker": "3.5",
-    "normalize.css": "^8.0.0"
+    "normalize.css": "^8.0.0",
+    "postcss-smart-import": "^0.7.6"
   },
   "devDependencies": {
     "babel-preset-airbnb": "^3.0.1",
